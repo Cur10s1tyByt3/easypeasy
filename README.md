@@ -1,11 +1,43 @@
-# EasyPeasy [Original GitLab Repository: https://gitlab.com/snuggy/easypeasy]
+# EasyPeasy
 
-Just a GitHub mirror repository of the latest EasyPeasy (that's hosted in GitLab) (even includes complete uncut [*easypeasy-v2.mp3*](https://8l8ybg.bn.files.1drv.com/y4mrEg0QTcJ1VdBq8bB07ahewl0q1_Q6e4t43wqaCZNMz9VdDzXJc9wBLBTP3oF-1jP7va3mEoo03smdXcavkMGYlOc3kHNsN65t8b8IP6-tH1RNCnu3HCz63Byv_lkxE9Ueb4ZG-FK3cDUe_chmxUxAqLNah5gkPOt3lgYx0orVThhvhh1MNUIFQHzhyb00Rei6NJ2TW6omjDAgBx_6YuXSw) and [*easypeasy.pdf*](https://easypeasymethod.org/easypeasy.pdf) which is the original pdf), adapting *Allen Carr's EasyWay to Stop Smoking* for porn addiction.
+**GitHub mirror of the [original GitLab repository](https://gitlab.com/snuggy/easypeasy)**
 
-It's written in R Markdown and compiled using Bookdown.
+A GitHub mirror repository of the latest EasyPeasy, originally hosted on GitLab. This repository includes the complete, latest uncut [**easypeasy-v2.mp3**](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd) audio version and the latest [**easypeasy.pdf**](https://easypeasymethod.org/easypeasy.pdf) document, adapting *Allen Carr's EasyWay to Stop Smoking* for porn addiction recovery.
 
-[Here is a video on how to use RStudio and Git to edit the hackbook.]() NOT YET, SOON
+## About
 
-From now on, for minor contributions, you can either create a Gitlab account and edit the R Markdown files directly on the original repo or just edit them and contribute in this repository since it's the latest repo version at the time of uploading over here. However, for major changes, you'll probably want to download R Studio and compile it to make sure everything works well.
+EasyPeasy is written in R Markdown and compiled using Bookdown, making it easy for contributors to edit and improve the content.
 
-Versions are numbered using [semantic versioning](https://semver.org).
+## Available Resources
+
+- **PDF Version**: [easypeasy.pdf](https://easypeasymethod.org/easypeasy.pdf) - The complete latest PDF of this guide
+- **Audio Version**: [easypeasy-v2.mp3](https://1drv.ms/u/s!AnXDgZXI9WE5j9YGojB-crpKNyGeDw?e=aXyUrd) - Complete latest uncut audio version
+
+## Contributing
+
+Contributions to improve EasyPeasy are welcome! Here's how you can help:
+
+### **For Minor Contributions**
+- Create a GitLab account and edit the R Markdown files directly on the [original repository](https://gitlab.com/snuggy/easypeasy)
+- Or just fork this repo and submit your edits as pull requests to this GitHub mirror (current version)
+
+### **For Major Changes**
+- Download R Studio and compile the project locally to ensure everything works properly before submitting
+- Test your changes thoroughly to maintain the quality and consistency of the guide
+
+### **Development Setup**
+1. Install R and RStudio
+2. Clone this repository
+3. Install the `bookdown` package
+4. Make your changes to the R Markdown files
+5. Compile and test before submitting
+
+## Technical Details
+
+- **Language**: R Markdown
+- **Build Tool**: Bookdown
+- **Versioning**: [Semantic Versioning](https://semver.org)
+
+---
+
+*EasyPeasy is a community-driven project aimed at helping people overcome porn addiction using proven methods adapted from Allen Carr's approach.*
